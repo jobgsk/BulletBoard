@@ -1,2 +1,2 @@
 # BulletBoard
-Integration Bullet physics 
+Integration of the Bullet physics 
